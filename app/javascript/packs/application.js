@@ -8,7 +8,7 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 
-//importacao de arquivo criado
+//importacao de arquivo criado application.scss / No assets idem funciona
 import '../stylesheets/application'
 
 require('./exchanges')
