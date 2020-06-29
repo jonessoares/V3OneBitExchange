@@ -1,6 +1,6 @@
 {
   "engines" : {
-    "node" : ">=12",     
+    "node" : ">=12"    
   }, 
 	"name":"onebitexchange",
 	"private":true,
@@ -12,11 +12,10 @@
 		"babel-loader": "8.0.6",
 		"bootstrap": "^4.5.0",
 		"jquery": "1.9.1",
-		"popper.js": "^1.16.0",
 		"turbolinks": "^5.2.0"
 	},
 	"version": "0.1.0", 
 	"devDependencies": {
-		"webpack-dev-server": "3.11.0"
+		"webpack-dev-server": "3.10.3"
 	}
 }
